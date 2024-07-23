@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @schroeder-vdivdeit
+- 🏢 This is my company account. Use @juliusschroeder if like to conntact me 
+- 👀 I’m interested in Python and Web-Development
+- 🌱 I’m currently learning more about applying the SOLID principles to real projects.
